@@ -10,7 +10,7 @@
     <p style="color:red;"><%= error %></p>
 <% } %>
 <form action="login" method="post">
-    <h3>Admin and Manager are already having their respective login details provided by the company they can join with those credentials!!</h3>
+    <h3>Admin and Manager are already having their respective login details provided by the company they can join with those credentials!!!</h3>
     <label for="username">Username:</label>
     <input type="text" name="username" required>
     <br>
@@ -21,4 +21,4 @@
 </form>
 <a href="signup.jsp">Don't have an account? Sign up here</a>
 </body>
-</html>
+</html> 
